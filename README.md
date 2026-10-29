@@ -65,13 +65,29 @@ Building a learning platform designed to support free and paid courses, live cla
 
 ---
 
+
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sinku1999&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sinku1999&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sinku1999&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinku1999&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sinku1999&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=sinku1999&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
 
 ---
 
